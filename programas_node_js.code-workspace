@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../programas_node_js"
+		},
+		{
+			"path": "../python2"
+		},
+		{
+			"path": "../python3"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
